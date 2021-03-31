@@ -1,0 +1,82 @@
+.background{
+    background-image: url("../assets/images/meet.PNG");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: ;
+}
+.custom-shape-divider-bottom-1617024024 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1617024024 svg {
+    position: relative;
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 120px;
+}
+
+.custom-shape-divider-bottom-1617024024 .shape-fill {
+    fill: #FFFFFF;
+}
+
+a{
+    text-decoration: none;
+    /* color: chocolate; */
+}
+.navbar a{
+    color: chocolate;
+    margin-left: 10px;
+}
+#menubutton{
+    margin-left: 100px;
+    border: none;
+    background-color: white;
+    margin-right: 10px;
+}
+.button{
+    background-color: chocolate;
+    color: white;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 10px;
+}
+.ad{
+    background-color: chocolate;
+    color: white;
+    padding: 20px;
+    margin-right: 16px;
+}
+.ad a{
+    color: white;
+    margin-right: 25px;
+}
+.ad2{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.ad2 a{
+    color: white;
+    margin-right: 25px;
+}
+.fat{
+    background-color:rgb(175, 174, 174);
+    padding: 8px 16px;
+    border-radius: 10px;
+    z-index: 1000;
+}
+.slim{
+    background-color:rgb(175, 174, 174);
+    padding: 8px 16px;
+    border-radius: 10px;
+    z-index: 1000;
+}
